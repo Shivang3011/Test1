@@ -14,4 +14,4 @@ driver.find_element_by_xpath("//input[@name="firstname"]")
 
 time.sleep(3)
 
-driver.close()
+driver.quit()
